@@ -19,7 +19,7 @@
     </message>
     <message>
         <source>Contributors</source>
-        <translation>Katkıcılar</translation>
+        <translation>Katkı Verenler</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/graphs/contributors&quot;&gt;See Contributions on GitHub&lt;/a&gt;</source>
@@ -69,16 +69,16 @@ MİB mimarisi: %2
     </message>
     <message>
         <source>Project Maintainers:</source>
-        <translation>Tasarı Bakımcıları:</translation>
+        <translation>Proje Sahipleri:</translation>
     </message>
     <message>
         <source>Special thanks from the KeePassXC team go to debfx for creating the original KeePassX.</source>
-        <translation type="unfinished"/>
+        <translation>KeePassXC ekibinden özel teşekkürler, özgün KeePassX&apos;i yaptığı için <b>debfx</b>&apos;e gider.</translation>
     </message>
     <message>
         <source>Build Type: %1
 </source>
-        <translation>İnşa Türü: %1
+        <translation>Yapı Tarzı: %1
 </translation>
     </message>
 </context>
@@ -90,7 +90,7 @@ MİB mimarisi: %2
     </message>
     <message>
         <source>Remember this decision</source>
-        <translation>Bu kararı anımsa</translation>
+        <translation>Bu kararı hatırla</translation>
     </message>
     <message>
         <source>Allow</source>
@@ -104,14 +104,14 @@ MİB mimarisi: %2
         <source>%1 has requested access to passwords for the following item(s).
 Please select whether you want to allow access.</source>
         <translation>%1, şu öge(ler) için parolalara erişim izni istedi.
-Lütfen erişime izin vermek istediklerinizi seçin.</translation>
+Lütfen erişime izin vermek isteyip istemediğinizi belirtin.</translation>
     </message>
 </context>
 <context>
     <name>AgentSettingsWidget</name>
     <message>
         <source>Enable SSH Agent (requires restart)</source>
-        <translation type="unfinished"/>
+        <translation>SSH Aracısı&apos;nı etkinleştir (yeniden başlatma gerektirir)</translation>
     </message>
 </context>
 <context>
@@ -130,19 +130,19 @@ Lütfen erişime izin vermek istediklerinizi seçin.</translation>
     </message>
     <message>
         <source>The Syntax of your Auto-Type statement is incorrect!</source>
-        <translation type="unfinished"/>
+        <translation>Oto-Yazım ifadenizin sözdizimi yanlış!</translation>
     </message>
     <message>
         <source>This Auto-Type command contains a very long delay. Do you really want to proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Bu Oto-Yazım komutu çok uzun bir gecikme içeriyor. Gerçekten devam etmek istiyor musun?</translation>
     </message>
     <message>
         <source>This Auto-Type command contains very slow key presses. Do you really want to proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Bu Oto-Yazım komutu çok yavaş tuşa basar. Gerçekten devam etmek istiyor musun?</translation>
     </message>
     <message>
         <source>This Auto-Type command contains arguments which are repeated very often. Do you really want to proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Bu Oto-Yazım komutu çok sık tekrarlanan argümanlar içerir. Gerçekten devam etmek istiyor musun?</translation>
     </message>
 </context>
 <context>
@@ -164,7 +164,7 @@ Lütfen erişime izin vermek istediklerinizi seçin.</translation>
     <name>AutoTypeMatchModel</name>
     <message>
         <source>Group</source>
-        <translation>Küme</translation>
+        <translation>Grup</translation>
     </message>
     <message>
         <source>Title</source>
@@ -187,18 +187,18 @@ Lütfen erişime izin vermek istediklerinizi seçin.</translation>
     </message>
     <message>
         <source>Select entry to Auto-Type:</source>
-        <translation>Oto-Yazım için girdi seçiniz:</translation>
+        <translation>Oto-Yazım için girdi seçin:</translation>
     </message>
 </context>
 <context>
     <name>BrowserAccessControlDialog</name>
     <message>
         <source>KeePassXC-Browser Confirm Access</source>
-        <translation type="unfinished"/>
+        <translation>KeePassXC-Tarayıcı Erişim Onayı</translation>
     </message>
     <message>
         <source>Remember this decision</source>
-        <translation>Bu kararı anımsa</translation>
+        <translation>Bu kararı hatırla</translation>
     </message>
     <message>
         <source>Allow</source>
@@ -212,7 +212,7 @@ Lütfen erişime izin vermek istediklerinizi seçin.</translation>
         <source>%1 has requested access to passwords for the following item(s).
 Please select whether you want to allow access.</source>
         <translation>%1, şu öge(ler) için parolalara erişim izni istedi.
-Lütfen erişime izin vermek istediklerinizi seçin.</translation>
+Lütfen erişime izin vermek isteyip istemediğinizi belirtin.</translation>
     </message>
 </context>
 <context>
@@ -223,11 +223,11 @@ Lütfen erişime izin vermek istediklerinizi seçin.</translation>
     </message>
     <message>
         <source>This is required for accessing your databases with KeePassXC-Browser</source>
-        <translation type="unfinished"/>
+        <translation>Bu KeePassXC-Tarayıcı ile veritabanlarınıza erişmek için gereklidir.</translation>
     </message>
     <message>
         <source>Enable KeepassXC browser integration</source>
-        <translation type="unfinished"/>
+        <translation>KeePassXC tarayıcı entegrasyonunu etkinleştir.</translation>
     </message>
     <message>
         <source>General</source>
@@ -235,66 +235,66 @@ Lütfen erişime izin vermek istediklerinizi seçin.</translation>
     </message>
     <message>
         <source>Enable integration for these browsers:</source>
-        <translation type="unfinished"/>
+        <translation>Bu tarayıcılar için entegrasyonu etkinleştir:</translation>
     </message>
     <message>
         <source>&amp;Google Chrome</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Google Chrome</translation>
     </message>
     <message>
         <source>&amp;Firefox</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Firefox</translation>
     </message>
     <message>
         <source>&amp;Chromium</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Chromium</translation>
     </message>
     <message>
         <source>&amp;Vivaldi</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Vivaldi</translation>
     </message>
     <message>
         <source>Show a &amp;notification when credentials are requested</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kimlik bilgileri istendiğinde bir &amp;bildirim göster</translation>
     </message>
     <message>
         <source>Re&amp;quest to unlock the database if it is locked</source>
-        <translation>Eğer kilitliyse veri tabanını açmayı is&amp;te</translation>
+        <translation>Kilitliyse &amp;veritabanının kilidini açma isteği</translation>
     </message>
     <message>
         <source>Only entries with the same scheme (http://, https://, ...) are returned.</source>
-        <translation type="unfinished"/>
+        <translation>Sadece aynı şemaya sahip girişler (http://, https://, ...) döndürülür.</translation>
     </message>
     <message>
         <source>&amp;Match URL scheme (e.g., https://...)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eşleşme URL şeması (ör., https://...)</translation>
     </message>
     <message>
         <source>Only returns the best matches for a specific URL instead of all entries for the whole domain.</source>
-        <translation>Tüm alan adı için tüm girdilerin yerine belirli bir URL için yalnızca en iyi eşleşmeyi döndürür.</translation>
+        <translation>Yalnızca tüm alan adı için tüm girdiler yerine belirli bir URL için en iyi eşleşenleri döndürür.</translation>
     </message>
     <message>
         <source>&amp;Return only best-matching credentials</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yalnızca en iyi eşleşen kimlik bilgilerini döndür</translation>
     </message>
     <message>
         <source>Sort &amp;matching credentials by title</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation type="unfinished"/>
+        <translation>Eşleşen kimlik bilgilerini başlığa göre &amp;sırala</translation>
     </message>
     <message>
         <source>Sort matching credentials by &amp;username</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation type="unfinished"/>
+        <translation>Eşleşen kimlik bilgilerini &amp;kullanıcı adına göre sırala</translation>
     </message>
     <message>
         <source>&amp;Disconnect all browsers</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tüm tarayıcıları kapatın</translation>
     </message>
     <message>
         <source>Forget all remembered &amp;permissions</source>
-        <translation type="unfinished"/>
+        <translation>Tüm hatırlanan izinleri &amp;unut</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -303,33 +303,33 @@ Lütfen erişime izin vermek istediklerinizi seçin.</translation>
     <message>
         <source>Never &amp;ask before accessing credentials</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kimlik bilgilerine erişmeden önce &amp;asla sorma</translation>
     </message>
     <message>
         <source>Never ask before &amp;updating credentials</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kimlik bilgilerini &amp;güncellemeden önce asla sorma</translation>
     </message>
     <message>
         <source>Only the selected database has to be connected with a client.</source>
-        <translation>Yalnızca seçilen veri tabanı istemciyle bağlanmış olmalıdır.</translation>
+        <translation>Sadece seçilen veritabanının bir istemci ile bağlı olması gerekir.</translation>
     </message>
     <message>
         <source>Searc&amp;h in all opened databases for matching credentials</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kimlik bilgilerini eşleştirmek için tüm açılan &amp;veritabanlarında ara</translation>
     </message>
     <message>
         <source>Automatically creating or updating string fields is not supported.</source>
-        <translation>Dizge alanlarını kendiliğinden oluşturma ve güncelleme desteklenmiyor.</translation>
+        <translation>Dizi alanlarını otomatik oluşturma veya güncelleme desteklenmiyor.</translation>
     </message>
     <message>
         <source>&amp;Return advanced string fields which start with &quot;KPH: &quot;</source>
-        <translation>&quot;KPH: &quot; ile başlayan gelişmiş dizge alanları &amp;döndür</translation>
+        <translation>&quot;KPH: &quot; ile başlayan gelişmiş dizi alanları &amp;döndür</translation>
     </message>
     <message>
         <source>Updates KeePassXC or keepassxc-proxy binary path automatically to native messaging scripts on startup.</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıçta yerel mesajlaşma komut dosyalarına otomatik olarak KeePassXC veya keepassxc-proxy ikili yolu güncellenir.</translation>
     </message>
     <message>
         <source>Update &amp;native messaging manifest files at startup</source>
@@ -3162,15 +3162,15 @@ Using default port 19455.</source>
     </message>
     <message>
         <source>Wordlist:</source>
-        <translation>Sözcük listesi:</translation>
+        <translation>Kelime listesi:</translation>
     </message>
     <message>
         <source>Word Count:</source>
-        <translation>Sözcük Sayısı:</translation>
+        <translation>Kelime Sayısı:</translation>
     </message>
     <message>
         <source>Word Separator:</source>
-        <translation>Sözcük Ayırıcı:</translation>
+        <translation>Kelime Ayırıcı:</translation>
     </message>
     <message>
         <source>Generate</source>
@@ -3198,7 +3198,7 @@ Using default port 19455.</source>
     </message>
     <message>
         <source>Password Quality: %1</source>
-        <translation>Parola Niteliği: %1</translation>
+        <translation>Şifre Kalitesi: %1</translation>
     </message>
     <message>
         <source>Poor</source>
@@ -3218,82 +3218,82 @@ Using default port 19455.</source>
     <message>
         <source>Excellent</source>
         <comment>Password quality</comment>
-        <translation>Harika</translation>
+        <translation>Mükemmel</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Database not opened</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanı açılmamış</translation>
     </message>
     <message>
         <source>Database hash not available</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanı karıştırma uygun değil</translation>
     </message>
     <message>
         <source>Client public key not received</source>
-        <translation type="unfinished"/>
+        <translation>İstemci açık anahtarı alınmadı</translation>
     </message>
     <message>
         <source>Cannot decrypt message</source>
-        <translation type="unfinished"/>
+        <translation>İleti şifresini çözemiyor</translation>
     </message>
     <message>
         <source>Timeout or cannot connect to KeePassXC</source>
-        <translation type="unfinished"/>
+        <translation>Zaman aşımı veya KeePassXC&apos;ye bağlanamıyor</translation>
     </message>
     <message>
         <source>Action cancelled or denied</source>
-        <translation type="unfinished"/>
+        <translation>Eylem iptal edildi veya geçersiz</translation>
     </message>
     <message>
         <source>Cannot encrypt message or public key not found. Is Native Messaging enabled in KeePassXC?</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj şifrelenemiyor veya ortak anahtar bulunamadı. KeePassXC&apos;de Yerel Mesajlaşma etkin mi?</translation>
     </message>
     <message>
         <source>KeePassXC association failed, try again</source>
-        <translation type="unfinished"/>
+        <translation>KeePassXC ilişkisi başarısız oldu, tekrar deneyin</translation>
     </message>
     <message>
         <source>Key change was not successful</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar değişimi başarısız</translation>
     </message>
     <message>
         <source>Encryption key is not recognized</source>
-        <translation type="unfinished"/>
+        <translation>Şifreleme anahtarı tanınmadı</translation>
     </message>
     <message>
         <source>No saved databases found</source>
-        <translation type="unfinished"/>
+        <translation>Kayıtlı veritabanları bulunamadı</translation>
     </message>
     <message>
         <source>Incorrect action</source>
-        <translation type="unfinished"/>
+        <translation>Hatalı eylem</translation>
     </message>
     <message>
         <source>Empty message received</source>
-        <translation type="unfinished"/>
+        <translation>Boş ileti alındı</translation>
     </message>
     <message>
         <source>No URL provided</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir URL sağlanmadı</translation>
     </message>
     <message>
         <source>No logins found</source>
-        <translation type="unfinished"/>
+        <translation>Giriş bulunamadı</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen hata</translation>
     </message>
     <message>
         <source>Add a new entry to a database.</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanına yeni bir giriş ekle</translation>
     </message>
     <message>
         <source>Path of the database.</source>
-        <translation>Veri tabanının yolu.</translation>
+        <translation>Veritabanının yolu.</translation>
     </message>
     <message>
         <source>Key file of the database.</source>
